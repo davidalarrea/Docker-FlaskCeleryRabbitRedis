@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:3.6
 
 # add requirements.txt to the image
 ADD requirements.txt /app/requirements.txt
